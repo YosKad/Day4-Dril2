@@ -43,7 +43,7 @@ h1 {
     color: var(--primary-color);
 }
 .abra-labs-logo {
-    background-image: url(./assets/logo.png);
+    background-image: url(assets/logo.png);
     width: 258px;
     height: 64px;
     
