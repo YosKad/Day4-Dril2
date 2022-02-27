@@ -1,0 +1,109 @@
+.main-container {
+    min-width: 2000px;
+}
+
+
+.sidebar {
+    background-color: var(--primary-color);
+    width: 343px;
+    height: 1080px;
+    padding-left: 64px;
+    padding-top: 32px;
+    display: inline-block;
+}
+
+.links-container {
+    margin-top: 64px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+
+}
+
+.links-container a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.links-container ul {
+    list-style: none;
+    padding: 0px;
+
+}
+
+.links-container li {
+    margin-bottom: 24px;
+}
+
+.links-container .active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.main-content {
+    display: inline-block;
+    vertical-align: top;
+    background-image: url(./assets/woman-img.png);
+    width: 1577px;
+    height: 821px;
+
+
+}
+
+.web-and-mobile {
+    margin-top: 238px;
+    margin-left: 175px;
+    width: 581px;
+}
+
+.cards {}
+
+.card {
+    height: 259px;
+    width: 526px;
+    padding-left: 32px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 32px;
+    padding-top: 32px;
+    padding-right: 64px;
+
+
+}
+
+.right-section {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.yellow {
+    background-color: #ff7748;
+}
+
+.orange {
+    background-color: #ff9f00;
+
+}
+
+.pink {
+    background-color: #ff5288;
+}
+
+.card h2 {
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.48px;
+    text-align: left;
+    color: #1c1c1c;
+
+}
